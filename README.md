@@ -5,4 +5,4 @@
 - 💬 Ask me about programming or IT related stuff
 - ⚡ Fun fact: I still studying programming 
 
-![Top Languages](https://github-readme-stats.vercel.app)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
